@@ -1,0 +1,22 @@
+{
+  "name": "maratona-discover-02-1.0.0",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   <img alt=\"JobsCalc\" title=\"JobsCalc\" src=\"https://i.imgur.com/Veqm7Gh.png\" width=\"220px\" /> </h1>",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "init-db": "node src/db/init.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "sqlite": "^4.0.21",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
