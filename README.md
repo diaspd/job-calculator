@@ -21,7 +21,7 @@
   <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 This project was developed with the following technologies:
 
@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 - Express
 - SQLite
 
-## 💻 Projeto
+## 💻 Project
 
 O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
 
