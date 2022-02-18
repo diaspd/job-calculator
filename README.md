@@ -23,7 +23,7 @@
 
 ## 🚀 Technologies
 
-This project was developed with the following technologies:
+This project was developed with the following technologies:<b>
 
 - HTML
 - CSS
@@ -32,6 +32,8 @@ This project was developed with the following technologies:
 - EJS
 - Express
 - SQLite
+  
+</b>
 
 ## 💻 Project
 
