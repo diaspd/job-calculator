@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença"><b>Licença</b></a>
+  <a href="#memo-license"><b>License</b></a>
 </p>
 
 <p align="center">
@@ -37,17 +37,16 @@ This project was developed with the following technologies:<b>
 
 ## 💻 Project
 
-💰 O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema.
+💰 Job Calculator is a calculation job estimate application where you can hire and select jobs (projects) by designing a free job client estimate. In addition, the hourly value of the person who will be using the system is possible.
 
 ## 🔖 Layout
 
 You can view the project layout through [this link](https://www.figma.com/file/s4fytPFbDiSkv4GPSfKaLE/Jobs-Planning). It is necessary to have an account in the [Figma](https://figma.com) to access it.
 
-## :memo: Licença
+## :memo: License
 
 This project is under the MIT license. See the file [LICENSE](.github/LICENSE.md) for more details.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-# Jobs-Calculator
+Mada with ♥ by Pedro dias 
