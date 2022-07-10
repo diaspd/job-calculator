@@ -49,4 +49,4 @@ This project is under the MIT license. See the file [LICENSE](.github/LICENSE.md
 
 ---
 
-Mada with ♥ by Pedro dias 
+Made with ♥ by Pedro dias 
