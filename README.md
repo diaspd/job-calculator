@@ -21,6 +21,25 @@
   <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
 </p>
 
+## 🚀 Getting started
+
+Clone the project and access the folder.
+
+```bash
+$ git clone https://github.com/diaspd/job-calculator.git
+$ cd 
+```
+
+Follow the steps below:
+```bash
+# Install the dependencies
+$ npm i
+
+# Start the project
+npm run dev 
+```
+The app will be available for access on http://localhost:5500/
+
 ## 🚀 Technologies
 
 This project was developed with the following technologies:<b>
