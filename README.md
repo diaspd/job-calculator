@@ -68,4 +68,4 @@ This project is under the MIT license. See the file [LICENSE](.github/LICENSE.md
 
 ---
 
-Made with ♥ by Pedro dias 
+Made with ♥ by Pedro Dias. 👋 Follow me on social media!
