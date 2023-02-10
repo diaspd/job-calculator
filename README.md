@@ -38,7 +38,8 @@ $ npm i
 # Start the project
 $ npm run dev 
 ```
-The app will be available for access on http://localhost:5500/
+
+The app will be available on `http://localhost:5500/`
 
 ## 🚀 Technologies
 
