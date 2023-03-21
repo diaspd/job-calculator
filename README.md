@@ -15,8 +15,6 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<br>
-
 <p align="center">
   <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
 </p>
@@ -45,8 +43,7 @@ The app will be available on `http://localhost:5500/`
 
 ## 🚀 Technologies
 
-This project was developed with the following technologies:<b>
-
+This project was developed with the following technologies: <b>
 - HTML
 - CSS
 - JavaScript
@@ -54,12 +51,15 @@ This project was developed with the following technologies:<b>
 - EJS
 - Express
 - SQLite
-  
 </b>
+
+</br>
 
 ## 💻 Project
 
 💰 Job Calculator is a calculation job estimate application where you can hire and select jobs (projects) by designing a free job client estimate. In addition, the hourly value of the person who will be using the system is possible.
+
+<br></br>
 
 ## 🔖 Layout
 
