@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
   <img alt="JobsCalc" title="JobsCalc" src="https://i.imgur.com/Veqm7Gh.png" width="350rem" />
-</h1>
+</div>
 
 <p align="center">
   <a href="#-technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,6 +8,8 @@
   <a href="#-layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license"><b>License</b></a>
 </p>
+
+</br>
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
