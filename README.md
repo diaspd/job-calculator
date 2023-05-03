@@ -71,6 +71,6 @@ This project is under the MIT license. See the file [LICENSE](.github/LICENSE.md
 
 ---
 
-Made with ♥ by Pedro Dias. 👋 Follow me on social media!<br></br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media! </br>
 
 If you can give a little star, I appreciate it 🤩
