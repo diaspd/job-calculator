@@ -1,6 +1,7 @@
 {
   "name": "maratona-discover-02-1.0.0",
   "version": "1.0.0",
+  "author": "pedro_dias",
   "description": "<h1 align=\"center\">   <img alt=\"JobsCalc\" title=\"JobsCalc\" src=\"https://i.imgur.com/Veqm7Gh.png\" width=\"220px\" /> </h1>",
   "main": "src/server.js",
   "scripts": {
@@ -8,7 +9,6 @@
     "init-db": "node src/db/init.js"
   },
   "keywords": [],
-  "author": "pedro_dias",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
