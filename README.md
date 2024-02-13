@@ -11,9 +11,13 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img alt="jobscalc project" src=".github/jobscalc.png" width="100%">
-</p>
+</div>
+
+<div align="center">
+  <img alt="jobscalc project" src="./public/images/template.gif" width="100%">
+</div>
 
 ## 🚀 Getting started
 
