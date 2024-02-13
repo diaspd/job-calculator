@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
+  <img alt="jobscalc project" src=".github/jobscalc.png" width="100%">
 </p>
 
 ## 🚀 Getting started
